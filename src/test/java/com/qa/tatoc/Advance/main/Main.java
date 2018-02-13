@@ -1,7 +1,6 @@
 package com.qa.tatoc.Advance.main;
 
 import java.sql.SQLException;
-
 import com.qa.tatoc.Advance.action.CourseSelection;
 import com.qa.tatoc.Advance.action.HoverMenu;
 import com.qa.tatoc.Advance.action.QueryGate;
